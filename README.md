@@ -20,7 +20,7 @@ Este laboratório propõe uma exploração prática dos recursos do Copilot da M
 - ✅ Conclusões finais  
 
 ```plaintext
-AI-LAB/
+DIO-XPcomIA-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/
 │
 ├── 📄 README.md
 ├── 📂 introducao/
