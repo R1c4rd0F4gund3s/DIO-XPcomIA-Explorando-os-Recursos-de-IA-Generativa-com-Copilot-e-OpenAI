@@ -36,10 +36,6 @@ DIO-XPcomIA-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/
 ├── 📂 openai/
 │   ├── 📄 filtros-de-conteudo.md
 │   ├── 📄 criacao-assistida.md
-│   ├── 📂 exemplos/
-│   │   ├── 📄 prompts-criativos.md
-│   │   ├── 📄 conversas-refinadas.md
-│   │   └── 📄 limitacoes-e-cuidados.md
 │   └── 📄 reflexoes.md
 │
 ├── 📂 prompts-aplicados/
