@@ -23,8 +23,7 @@ Este laboratório propõe uma exploração prática dos recursos do Copilot da M
 DIO-XPcomIA-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/
 │
 ├── 📄 README.md
-├── 📂 introducao/
-│   └── 📄 contexto.md
+├── 📄 LICENSE
 │
 ├── 📂 Copilot/
 │   ├── 📄 funcionalidades.md
