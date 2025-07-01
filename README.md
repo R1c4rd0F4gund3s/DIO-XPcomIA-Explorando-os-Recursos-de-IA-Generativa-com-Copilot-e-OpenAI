@@ -25,7 +25,7 @@ DIO-XPcomIA-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/
 ├── 📄 README.md
 ├── 📄 LICENSE
 │
-├── 📂 Copilot/
+├── 📂 copilot/
 │   ├── 📄 funcionalidades.md
 │   ├── 📂 exemplos/
 │   │   ├── 📄 escrita-assistida.md
